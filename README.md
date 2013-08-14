@@ -1,5 +1,7 @@
 ## Ted's sublime customize setting
 
+[customize](http://www.fantxi.com/blog/archives/sublime-template-engine-sublimetmpl/)
+
 ### scss
 
 Preferences -> Package settings -> SublimeTmpl
